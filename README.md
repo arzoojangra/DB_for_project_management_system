@@ -2,9 +2,9 @@
 
 This project was created using React and NodeJS. 
 <br/>
-This is the front-end repository for the project.
+This is the backend repository for the project.
 <br/>
-For the backend you may go to: https://github.com/arzoojangra/DB_for_project_management_system
+For the front-end you may go to: https://github.com/arzoojangra/DB_for_project_management_system
 <br/>
 The screenshots are attached below:
 <br/>
